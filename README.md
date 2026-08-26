@@ -176,3 +176,4 @@ We want CODE BASE GG to be more than just a GitHub organization. We want it to b
 ---
 
 *Made by students, for students.*
+*We also support say gex*
