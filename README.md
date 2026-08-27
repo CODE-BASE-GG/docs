@@ -1,22 +1,9 @@
-
-<h1 align="left">
-  <strong>🌂 The Franzi'</strong>
-</h1>
-
 <div align="center">
     <img height="auto" alt="the-franzi-banner" width="100%" style="margin-bottom: 20px" src="./assets/github-org-franzi-banner.GIF" />
 </div>
 
-<h3 align="center">
-  <strong>A student-led organization</strong>
-</h3>
-
-<h4 align="center">
-<i>
-  focused on learning, building, collaborating, and growing together through
-  technology.
-</i>
-</h4>
+> A student-led organization focused on learning, building, collaborating, and growing together through
+technology.
 
 ---
 
@@ -30,7 +17,6 @@ one another and turn ideas into real projects.
 ## 🚀 What We Do
 
 CODE BASE GG is centered around **learning by building**.
-
 We aim to:
 
 * 💡 Build real-world software and student projects
@@ -41,6 +27,7 @@ We aim to:
 * 🔧 Experiment with new technologies and tools
 * 🌐 Contribute to open-source projects
 * 🎯 Turn ideas into working applications
+</details>
 
 ---
 
