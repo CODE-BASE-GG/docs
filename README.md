@@ -1,16 +1,29 @@
-# CODE BASE GG 💻
+
+<h1 align="left">
+  <strong>🌂 The Franzi'</strong>
+</h1>
+
+<div align="center">
+    <img height="auto" alt="the-franzi-banner" width="100%" style="margin-bottom: 20px" src="./assets/github-org-franzi-banner.GIF" />
+</div>
 
 <h3 align="center">
   <strong>A student-led organization</strong>
 </h3>
-<p align="center">
+
+<h4 align="center">
+<i>
   focused on learning, building, collaborating, and growing together through
   technology.
-</p>
+</i>
+</h4>
 
 ---
 
-We are a community of students passionate about **software development, programming, open source, and technology**. Whether you're just starting to code or already building projects, CODE BASE GG is a space where we can learn from one another and turn ideas into real projects.
+We are a community of students passionate about **software development,
+programming, open source, and technology**. Whether you're just starting to code
+or already building projects, The Franzi' is a space where we can learn from
+one another and turn ideas into real projects.
 
 ---
 
@@ -31,7 +44,7 @@ We aim to:
 
 ---
 
-## 🛠️ Technologies
+## 🛠️️ Technologies
 
 Our members work with a variety of technologies, including but not limited to:
 
@@ -57,11 +70,13 @@ Our members work with a variety of technologies, including but not limited to:
 * PostgreSQL
 * MySQL
 * SQLite
+* MongoDB
 
 **Tools & Platforms**
 
 * Git & GitHub
 * VS Code
+* Neovim
 * Linux
 * Docker
 
