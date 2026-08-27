@@ -2,10 +2,7 @@
     <img height="auto" alt="the-franzi-banner" width="100%" style="margin-bottom: 20px" src="./assets/github-org-franzi-banner.GIF" />
 </div>
 
-> A student-led organization focused on learning, building, collaborating, and growing together through
-technology.
-
----
+> The Franzi'
 
 We are a community of students passionate about **software development,
 programming, open source, and technology**. Whether you're just starting to code
@@ -13,8 +10,8 @@ or already building projects, The Franzi' is a space where we can learn from
 one another and turn ideas into real projects.
 
 ---
-
-## 🚀 What We Do
+<details>
+<summary><h3> 🚀 What We Do </h3></summary>
 
 CODE BASE GG is centered around **learning by building**.
 We aim to:
@@ -29,9 +26,8 @@ We aim to:
 * 🎯 Turn ideas into working applications
 </details>
 
----
-
-## 🛠️️ Technologies
+<details>
+<summary><h3> 🛠️️ Technologies</h3></summary>
 
 Our members work with a variety of technologies, including but not limited to:
 
@@ -68,10 +64,10 @@ Our members work with a variety of technologies, including but not limited to:
 * Docker
 
 > Our technology stack is not fixed. We encourage members to explore and learn new technologies.
+</details>
 
----
-
-## 📂 Our Projects
+<details>
+<summary><h3> 📂 Our Projects </h3></summary>
 
 Projects within CODE BASE GG may include:
 
@@ -84,39 +80,10 @@ Projects within CODE BASE GG may include:
 * 🌐 Open-source contributions
 
 Each project is an opportunity to **learn, experiment, and improve**.
+</details>
 
----
-
-## 🤝 Our Philosophy
-
-### Learn. Build. Collaborate. Grow.
-
-We believe that programming is best learned by **actually building things**.
-
-You don't need to be an expert to contribute. Questions are welcome, mistakes are part of the process, and everyone has something they can teach others.
-
-> **Code is better when we build it together.**
-
----
-
-## 👥 For Students
-
-CODE BASE GG is primarily composed of **students**, meaning our organization is designed around learning and collaboration.
-
-Whether you're:
-
-* 🌱 Writing your first program
-* 🧑‍💻 Building your first web application
-* 🔥 Working on a personal project
-* 🎓 Developing an academic project
-* 🚀 Interested in contributing to open source
-* 🧠 Trying to learn a new technology
-
-**You're welcome here.**
-
----
-
-## 📌 Contribution
+<details>
+<summary><h3> 📌 Contribution </h3></summary>
 
 We encourage everyone in the organization to participate.
 
@@ -143,10 +110,27 @@ Merge 🎉
 ```
 
 Good code is important, but **good collaboration is just as important**.
+</details>
 
----
+<details>
+<summary><h3>👥 For Students</h3></summary>
 
-## 📜 Organization Guidelines
+CODE BASE GG is primarily composed of **students**, meaning our organization is designed around learning and collaboration.
+
+Whether you're:
+
+* 🌱 Writing your first program
+* 🧑‍💻 Building your first web application
+* 🔥 Working on a personal project
+* 🎓 Developing an academic project
+* 🚀 Interested in contributing to open source
+* 🧠 Trying to learn a new technology
+
+**You're welcome here.**
+</details>
+
+<details>
+<summary><h3> 📜 Organization Guidelines </h3></summary>
 
 As a student organization, we aim to maintain a respectful and welcoming environment.
 
@@ -159,6 +143,19 @@ Members are expected to:
 * Avoid committing sensitive information
 * Follow the guidelines of each repository
 * Ask questions when something is unclear
+</details>
+
+---
+
+## 🤝 Our Philosophy
+
+### Learn. Build. Collaborate. Grow.
+
+We believe that programming is best learned by **actually building things**.
+
+You don't need to be an expert to contribute. Questions are welcome, mistakes are part of the process, and everyone has something they can teach others.
+
+> **Code is better when we build it together.**
 
 ---
 
