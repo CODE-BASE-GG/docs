@@ -1,8 +1,14 @@
 # CODE BASE GG 💻
 
-> **A student-driven organization built by developers, for developers.**
+<h3 align="center">
+  <strong>A student-led organization</strong>
+</h3>
+<p align="center">
+  focused on learning, building, collaborating, and growing together through
+  technology.
+</p>
 
-Welcome to **CODE BASE GG** — a student-led organization focused on learning, building, collaborating, and growing together through technology.
+---
 
 We are a community of students passionate about **software development, programming, open source, and technology**. Whether you're just starting to code or already building projects, CODE BASE GG is a space where we can learn from one another and turn ideas into real projects.
 
